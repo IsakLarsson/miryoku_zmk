@@ -17,7 +17,10 @@ U_NP,              U_NP,              &kp LPAR,          &kp RPAR,          &kp 
      K20, K21, K22, K23, K24,      K25, K26, K27, K28, K29, \
      N30, N31, K32, K33, K34,      K35, K36, K37, N38, N39 \
 ) \
-MIRYOKU_LAYER_SYM
+&kp SQT,          &kp LESS_THAN,          &kp GREATER_THAN,         &kp DQT,          &kp DOT,          &kp AMPERSAND,              &kp SQT,      &kp RIGHT_BRACKET,     &kp LEFT_BRACKET,       &kp PERCENT,            \
+&kp EXCL,         &kp MINUS,          &kp PLUS,         &kp EQUAL,         &kp HASH,          &kp PIPE,              &kp COLON,         &kp RIGHT_PARENTHESIS,         &kp LEFT_PARENTHESIS,          &kp QUESTION,          \
+&kp CARET,         &kp SLASH,          &kp ASTERISK,            &kp BACKSLASH,          &kp GRAVE,          &kp TILDE,              &kp DOLLAR,       &kp RIGHT_BRACE,     &kp LEFT_BRACE,          &kp AT,              \
+U_NP,              U_NP,              &kp LPAR,          &kp RPAR,          &kp UNDER,         U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
 #define MIRYOKU_KLUDGE_TOPROWCOMBOS_LEFTPINKIE 2 3
 #define MIRYOKU_KLUDGE_TOPROWCOMBOS_LEFTINNERINDEX 3 4
