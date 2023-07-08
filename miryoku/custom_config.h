@@ -7,7 +7,7 @@
 &kp CARET,         &kp SLASH,          &kp ASTERISK,            &kp BACKSLASH,          &kp GRAVE,          &kp TILDE,              &kp DOLLAR,       &kp RIGHT_BRACE,     &kp LEFT_BRACE,          &kp AT,              \
 U_NP,              U_NP,              &kp LPAR,          &kp RPAR,          &kp UNDER,         U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
-#if !defined (MIRYOKU_KEYBOARD_CORNE)
+#if defined (MIRYOKU_KEYBOARD_CORNE)
 
 #define XXX &none
 
